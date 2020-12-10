@@ -1,0 +1,146 @@
+ H:\plex\Media\Videos\music videos> dir
+
+
+    Directory: H:\plex\Media\Videos\music videos
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        12/2/2020   4:28 PM       41775319 Chelou - Halfway to Nowhere.mp4
+-a----        12/2/2020   4:15 PM       54202153 Chet Faker - Gold.mp4
+-a----        12/2/2020   4:23 PM       42763062 DWIG - Orange Evening __ Laut & Luise.mp4
+-a----        12/2/2020   4:24 PM       14712419 Fatboy Slim - Weapon Of Choice.mp4
+-a----        12/2/2020   4:05 PM       87910462 GUNSHIP - Tech Noir.mp4
+-a----       11/13/2020  12:01 AM       12542603 Benny Benassi - Satisfaction.webm
+-a----        11/8/2020  11:57 PM      103744614 Beabadoobee - She Plays Bass.mp4
+-a----       11/13/2020  12:36 AM       19252950 Daft Punk - End of Line HQ.mp4
+-a----       11/13/2020  12:46 AM       94223520 GUNSHIP - When You Grow Up, Your Heart Dies [Official Music
+                                                 Video].webm
+-a----       11/13/2020   1:17 AM       19822917 Kavinsky - Testarossa Autodrive (Official Video).webm
+-a----        11/9/2020  12:06 AM       28073010 Kravinsky - Odd Look.mp4
+-a----        11/8/2020  11:48 PM       41713779 Night Club - Dear Enemy.mp4
+-a----       11/13/2020  12:27 AM       17654827 Nine Inch Nails - Closer.mp4
+-a----        11/9/2020  12:16 AM      104047203 Skating Polly - Little Girl Blue.mp4
+-a----       11/13/2020  12:11 AM       57173314 The Chemical Brothers - Get Yourself High.mp4
+-a----       11/13/2020  12:06 AM       89233345 The Chemical Brothers - Let Forever Be (Official Music Video).mp4
+-a----       11/13/2020  12:10 AM      446817563 The Chemical Brothers - Believe.webm
+-a----        12/2/2020   6:19 PM       38306629 Fever The Ghost - Source.m4v
+-a----        12/2/2020   6:27 PM      179702203 Astrix - High On Mel.m4v
+-a----       11/14/2020   4:56 PM       37840810 Bonobo _ Cirrus.webm
+-a----        12/2/2020   5:15 PM       52517460 Gorillaz - Feel Good Inc..mp4
+-a----        12/2/2020   5:13 PM      117122116 Gorillaz - Stylo.mp4
+-a----       11/13/2020  12:02 AM       10353032 Jamiroquai - Virtual Insanity.webm
+-a----        12/2/2020   6:54 PM              0 French 79 - Hometown.m4v
+-a----        12/2/2020   6:58 PM              0 Kavinsky - Nightcall  Drive.m4v
+-a----        12/2/2020   8:27 PM       52346657 Caravan Palace - Lone Digger.mp4
+-a----        12/2/2020   8:54 PM      217100658 Carpenter Brut - Turbo Killer.mp4
+-a----        12/2/2020   8:44 PM       89021163 Chaka Khan - Like Sugar.mp4
+-a----        12/2/2020   8:52 PM       64661682 Childish Gambino - Feels Like Summer.mp4
+-a----        12/2/2020   8:42 PM       39884122 Daft Punk - Something About Us.mp4
+-a----        12/2/2020   8:26 PM       46860194 DJ Shadow - Nobody Speak.mp4
+-a----        12/2/2020   8:29 PM       26243866 Fatboy Slim - Praise You.mp4
+-a----        12/2/2020   9:05 PM       39677490 Flight Facilities - Down To Earth feat. Sam Rockwell.mp4
+-a----        12/2/2020   8:23 PM       92547599 Gorillaz - Tranz.mp4
+-a----        12/2/2020   9:14 PM       41386542 Gotye - Somebody That I Used To Know.mp4
+-a----        12/2/2020   9:09 PM       62739169 GUNSHIP - Art3mis & Parzival.mp4
+-a----        12/2/2020   8:55 PM       88860827 GUNSHIP - Fly For Your Life.mp4
+-a----        12/2/2020   9:03 PM      846742676 GUNSHIP - The Drone Racers.mp4
+-a----        12/2/2020   9:01 PM      119150601 GUNSHIP - The Mountain.mp4
+-a----        12/2/2020   9:13 PM       36519171 Gustavo Santaolalla - Babel.mp4
+-a----        12/2/2020   8:35 PM        8350799 Mr Oizo - Flat beat.mp4
+-a----        12/2/2020   8:38 PM       51098507 Otis Stacks - Fashion Drunk.mp4
+-a----        12/2/2020   8:45 PM       33581096 Otis Stacks - Little Pretty.mp4
+-a----        12/2/2020   8:46 PM      208225924 Otis Stacks - Sorry.mp4
+-a----        12/2/2020   9:01 PM       48292211 Perturbator - Future Club.mp4
+-a----        12/2/2020   9:10 PM       42393836 Rag'n'Bone Man - Human.mp4
+-a----        12/2/2020   8:58 PM       67236245 Scott Pilgrim Vs. The World - Black Sheep.mp4
+-a----        12/2/2020   8:41 PM       37311521 Stuck In the Sound - Let's Go.mp4
+-a----        12/2/2020  10:06 PM       60500058 Gorillaz - Dare.m4v
+-a----        12/5/2020   7:53 PM       81764496 Blockhead.m4v
+-a----        12/9/2020   6:40 PM       34623715 Bronski Beat - Smalltown Boy.m4v
+-a----        12/9/2020   6:41 PM       49980236 Craft Spells - Nausea.m4v
+-a----        12/9/2020   6:43 PM      101765670 Crumb - Bones.m4v
+-a----        12/9/2020   6:45 PM       65835962 Crumb - Fall Down.m4v
+-a----        12/9/2020   6:53 PM      159071319 Crumb - Locket.m4v
+-a----        12/9/2020   6:59 PM      118775326 Crumb - M.R.m4v
+-a----        12/9/2020   7:05 PM      124910665 Crumb - Nina.m4v
+-a----        12/9/2020   7:09 PM      154584568 Dope Lemon - Hey You.m4v
+-a----        12/9/2020   7:10 PM       20878318 King Krule - Border Line.m4v
+-a----        12/9/2020   7:12 PM      100605286 Rone - Bye Bye Macadam.m4v
+-a----        12/9/2020   7:16 PM       95471393 Skating Polly - Hail Mary.m4v
+-a----        12/9/2020   7:18 PM       45308000 Sleep Party People - I'm Not Human At All.m4v
+-a----        12/9/2020   7:13 PM       39835472 Strfkr - Golden Light.m4v
+-a----        12/9/2020   7:23 PM      148623283 The Avalanches - Wherever You Go.m4v
+-a----        12/9/2020   7:27 PM       87202833 The Strokes - Why Are Sundays So Depressing.m4v
+-a----        12/9/2020   7:30 PM       85096001 Wild Child - Crazy Bird.m4v
+-a----        12/9/2020   6:37 PM       35964140 A Flock Of Seagulls - I Ran So Far Away.m4v
+-a----        12/9/2020   6:39 PM       47398985 A Flock Of Seagulls - Space Age Love Song.m4v
+-a----        12/9/2020   8:22 PM       62022986 Chelou - Damned Eye See.m4v
+-a----        12/9/2020   8:27 PM      112050005 Dead Pirates - Ugo.m4v
+-a----        12/9/2020   8:34 PM      170254884 Glue Trip - Elbow Pain.m4v
+-a----        12/9/2020   8:40 PM       87831425 I Dont Know How But They Found Me - Do It All The Time.m4v
+-a----        12/9/2020   8:43 PM       54697774 Kid Francescoli -  Moon  (Official Video).m4v
+-a----        12/9/2020   8:45 PM       54865412 Low Hum - I Don't Know Me Like You Do.m4v
+-a----        12/9/2020   8:48 PM      113134661 Low Hum - Strange Love.m4v
+-a----        12/9/2020   9:03 PM      104976330 Max Cooper - Organa.m4v
+-a----        12/9/2020   9:07 PM       78562360 Mcbaise - She's A Big Boy.m4v
+-a----        12/9/2020   9:01 PM       99394629 Monsune - Outta My Mind.m4v
+-a----        12/9/2020   9:11 PM      173991224 Mormor- Heaven's Only Wishful.m4v
+-a----        12/9/2020   9:13 PM       76778399 Otis Stacks (Ft. Gift Of Gab) - Fashion Drunk.m4v
+-a----        12/9/2020   9:17 PM      125943078 Papooz - Ann Wants To Dance.m4v
+-a----        12/9/2020   9:21 PM      151530633 Psychedelic Porn Crumpets - Cornflake.m4v
+-a----        12/9/2020   9:24 PM      117148096 Skinshape - I Didn't Know.m4v
+-a----        12/9/2020   9:31 PM      340200725 Toro Y Moi  Rose Quartz.m4v
+-a----        12/9/2020   8:17 PM       68969636 Andy Shauf -  Quite Like You.m4v
+-a----        12/9/2020   8:19 PM       33179458 Beach House    Space Song.m4v
+-a----        12/9/2020   9:36 PM      194295228 Unknown Mortal Orchestra - Multi-Love.m4v
+-a----        12/9/2020   9:38 PM       59012756 Unknown Mortal Orchestra - Necessary Evil.m4v
+-a----        12/9/2020   9:42 PM       95188453 Zhu - Cocaine Model.m4v
+-a----       12/10/2020   5:07 AM      208273059 Grieves - What It Dew.m4v
+-a----       12/10/2020   5:08 AM       54523969 Just Another Day - Oingo Boingo.m4v
+-a----       12/10/2020   5:10 AM       28689574 Kid Francescoli -  Bad Girls.m4v
+-a----       12/10/2020   5:15 AM       21903066 Men At Work - Down Under.m4v
+-a----       12/10/2020   5:18 AM       77414122 New Order - Bizarre Love Triangle.m4v
+-a----       12/10/2020   5:19 AM       45689522 New Order - Blue Monday 88.m4v
+-a----       12/10/2020   5:22 AM       76354018 New Order - The Perfect Kiss.m4v
+-a----       12/10/2020   4:17 AM      115667802 Aesop Rock - Drums On The Wheel.m4v
+-a----       12/10/2020   4:34 AM       55095066 Aesop Rock - Kirby.m4v
+-a----       12/10/2020   4:38 AM      137569188 Andy Shauf -  The Magician.m4v
+-a----       12/10/2020   4:41 AM       88075015 Chelou - Out Of Sight.m4v
+-a----       12/10/2020   4:42 AM       28082028 Danny Elfman - Gratitude.m4v
+-a----       12/10/2020   4:42 AM       39671965 David Bowie – Space Oddity.m4v
+-a----       12/10/2020   4:43 AM       22327246 Devo - Whip It.m4v
+-a----       12/10/2020   4:43 AM       24765562 Gary Numan - Cars.m4v
+-a----       12/10/2020   4:49 AM      197899239 Glue Trip - Fancy.m4v
+-a----       12/10/2020   4:58 AM      167227538 Glue Trip - La Edad Del Futuro.m4v
+-a----       12/10/2020   5:02 AM      146767959 Grieves - A-Okay.m4v
+-a----       12/10/2020   5:03 AM       50353188 Grieves - On The Rocks.m4v
+-a----       12/10/2020   5:15 AM      147631707 Lusine - Just A Cloud.m4v
+-a----       12/10/2020   5:37 AM       56661789 Nothing Bad Ever Happens To Me.m4v
+-a----       12/10/2020   5:38 AM       66033950 Oingo Boingo - No One Lives Forever.m4v
+-a----       12/10/2020   5:39 AM       19316183 Oingo Boingo - Private Life.m4v
+-a----       12/10/2020   5:44 AM      151176960 Ol' Dirty Bastard Ft. Kelis - Got Your Money.m4v
+-a----       12/10/2020   5:47 AM      114490303 Oliver Tree - All That X Alien Boy.m4v
+-a----       12/10/2020   5:49 AM       69014185 Portugal. The Man -  Feel It Still.m4v
+-a----       12/10/2020   5:51 AM       51870745 Prof - Criminal.m4v
+-a----       12/10/2020   5:54 AM      116972205 Prof - Squad Goals.m4v
+-a----       12/10/2020   6:00 AM      191072189 Psychedelic Porn Crumpets - Dezi's Adventure.m4v
+-a----       12/10/2020   6:02 AM       56449554 Rainbow Kitten Surprise - Fever Pitch.m4v
+-a----       12/10/2020   6:05 AM      125269746 Skating Polly - Hollywood Factory.m4v
+-a----       12/10/2020   6:09 AM      141554200 Skating Polly - Oddie Moore.m4v
+-a----       12/10/2020   6:13 AM      118477898 Skating Polly - Play House.m4v
+-a----       12/10/2020   6:17 AM      152545435 Skating Polly - Pretective Boy.m4v
+-a----       12/10/2020   6:20 AM      115962872 Skating Polly - They're Cheap.m4v
+-a----       12/10/2020   6:23 AM       66121861 Sonreal - Everywhere We Go.m4v
+-a----       12/10/2020   6:25 AM       54299550 Stay - Oingo Boingo.m4v
+-a----       12/10/2020   6:25 AM       26821493 Talking Heads - Burning Down The House.m4v
+-a----       12/10/2020   6:27 AM      116976108 Tame Impala - Feels Like We Only Go Backwards.m4v
+-a----       12/10/2020   6:31 AM      229365906 Tame Impala - Is It True.m4v
+-a----       12/10/2020   6:35 AM      112289712 Tears For Fears - Everybody Wants To Rule The World.m4v
+-a----       12/10/2020   6:38 AM       81761211 Tears For Fears - Head Over Heels.m4v
+-a----       12/10/2020   6:41 AM      111002128 The Avalanches - Music Makes Me High.m4v
+-a----       12/10/2020   6:43 AM       79585079 The B-52'S - Love Shack.m4v
+-a----       12/10/2020   6:47 AM      118355339 Unknown Mortal Orchestra - So Good At Being In Trouble.m4v
+-a----       12/10/2020   6:53 AM      214139089 A-Ha - Take On Me.m4v
+-a----       12/10/2020   5:26 AM       95251490 New Order - True Faith.m4v
+-a----       12/10/2020   5:35 AM      302607256 Night Club -  Show It 2 Me.m4v
